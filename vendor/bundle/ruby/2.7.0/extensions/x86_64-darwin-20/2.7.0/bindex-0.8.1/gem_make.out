@@ -1,0 +1,15 @@
+current directory: /Users/yusuke/dream/tawaman/heroku_begin_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/yusuke/.rbenv/versions/2.7.3/bin/ruby -I /Users/yusuke/.rbenv/versions/2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220415-96741-1o7lh03.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yusuke/dream/tawaman/heroku_begin_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/yusuke/dream/tawaman/heroku_begin_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/yusuke/dream/tawaman/heroku_begin_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220415-96741-cjl8b4/skiptrace/internal
